@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6fcdc2bc43e58a4faa7feec5b72b08c, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  proj: {fileID: 285491923307634401, guid: d5526aae99bb92c4d88a8e3117408c2d, type: 3}
+  progressions:
+  - dmg: 10
+    attackSpeed: 5
+    projSpeed: 5
+  - dmg: 15
+    attackSpeed: 15
+    projSpeed: 20
